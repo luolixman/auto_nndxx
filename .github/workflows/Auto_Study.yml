@@ -2,7 +2,7 @@ name: 自动学习
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '0 16 * * 1'
+    - cron:  '0 12 * * 1'
 
 jobs:
     Auto-QNDXX:
